@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_is_AB">false</bool>
+    <string name="config_system_partition" translatable="false">/dev/block/bootdevice/by-name/system</string>
+    <string name="config_boot_partition" translatable="false">/dev/block/bootdevice/by-name/boot</string>
+</resources>
